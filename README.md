@@ -1,6 +1,6 @@
 # File Cabinet App
 
-This project consists of replicating an app that gives the File manipulation capabilities like Evernote or Thinkery putting emphasis on the main behavior that gives the capabilities to do new documents, edit and delete also sign up and login capabilities..
+This project consists of replicating an app that gives the File manipulation capabilities like Evernote or Thinkery putting emphasis on the main behavior that gives the capabilities to do new documents, edit and delete also sign up and login capabilities.
 
 ## Built With
 
