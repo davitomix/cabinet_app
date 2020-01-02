@@ -1,12 +1,11 @@
 class DocsController < ApplicationController
-  before_action :find_doc, only: [:show, :edit, :update, :destroy]
+  before_action :find_doc, only: %i[show edit update destroy]
 
   def index
     @docs = Doc.where(user_id: current_user)
   end
 
-  def show
-  end
+  def show; end
 
   def new
     @doc = current_user.docs.build
@@ -22,8 +21,7 @@ class DocsController < ApplicationController
     end
   end
 
-  def edit
-  end
+  def edit; end
 
   def update
     if @doc.update(doc_params)
@@ -40,11 +38,11 @@ class DocsController < ApplicationController
 
   private
 
-    def find_doc
-      @doc = Doc.find(params[:id])
-    end
+  def find_doc
+    @doc = Doc.find(params[:id])
+  end
 
-    def doc_params
-      params.require(:doc).permit(:title, :content)
-    end
+  def doc_params
+    params.require(:doc).permit(:title, :content)
+  end
 end
