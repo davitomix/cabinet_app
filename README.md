@@ -41,6 +41,8 @@ $ rails server
 - Github: [@davitomix](https://github.com/davitomix)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
+## Snapshots :camera:
+
 
 ## 🤝 Contributing
 
