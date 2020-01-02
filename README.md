@@ -42,7 +42,7 @@ $ rails server
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## Snapshots :camera:
-
+<img align="right" width="350" height="500" src="app/assets/images/snap1.png">
 
 ## 🤝 Contributing
 
