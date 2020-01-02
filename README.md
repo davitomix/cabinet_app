@@ -42,13 +42,12 @@ $ rails server
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## Snapshots :camera:
-<img align="left" width="350" height="500" src="app/assets/images/snap1.png">
-<img align="right" width="350" height="500" src="app/assets/images/snap2.png">
-<img align="left" width="350" height="500" src="app/assets/images/snap3.png">
-<img align="right" width="350" height="500" src="app/assets/images/snap4.png">
-<img align="left" width="350" height="500" src="app/assets/images/snap5.png">
-<img align="right" width="350" height="500" src="app/assets/images/snap6.png">
-<br>
+<img align="center" width="650" height="500" src="app/assets/images/snap1.png">
+<img align="center" width="650" height="500" src="app/assets/images/snap2.png">
+<img align="center" width="650" height="500" src="app/assets/images/snap3.png">
+<img align="center" width="650" height="500" src="app/assets/images/snap4.png">
+<img align="center" width="650" height="500" src="app/assets/images/snap5.png">
+<img align="center" width="650" height="500" src="app/assets/images/snap6.png">
 
 ## 🤝 Contributing
 
