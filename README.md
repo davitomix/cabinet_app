@@ -48,6 +48,7 @@ $ rails server
 <img align="right" width="350" height="500" src="app/assets/images/snap4.png">
 <img align="left" width="350" height="500" src="app/assets/images/snap5.png">
 <img align="right" width="350" height="500" src="app/assets/images/snap6.png">
+<br>
 
 ## 🤝 Contributing
 
